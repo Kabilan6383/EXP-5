@@ -19,11 +19,12 @@ CIRCUIT DIAGRAM:
 
 line regulation
 
-<img width="1600" height="900" alt="506893167-6ef3f6d6-b871-4ae2-95e3-d5e8b78ab9a4" src="https://github.com/user-attachments/assets/26b93bbe-95ae-4168-a429-0222b689c278" />
+<img width="880" height="364" alt="Screenshot 2025-11-17 140446" src="https://github.com/user-attachments/assets/1a21d2e1-180d-4368-ab8a-faae9db7fd65" />
 
 load regulation
 
-<img width="1600" height="900" alt="506893196-d5329ef3-bb51-4c5a-9916-75136a97f13f" src="https://github.com/user-attachments/assets/8664be66-70ee-4320-ba99-8791ff8e3d5e" />
+<img width="773" height="298" alt="Screenshot 2025-11-17 140454" src="https://github.com/user-attachments/assets/36f62f3a-a6b2-4e88-ac20-07eb635d11fb" />
+
 
 
 THEORY:
@@ -43,16 +44,9 @@ REGULATION CHARACTERISTICS:
 
 V-I & REGULATION CHARACTERISTICS:
 
-![ex51](https://github.com/user-attachments/assets/9c8493d4-0357-41e9-82d6-079a9d12d028)
+![WhatsApp Image 2025-11-17 at 13 36 13_0612afbc](https://github.com/user-attachments/assets/09d7b074-fcf6-4376-b8fc-c49c50a2f773)
 
-
-![ex52](https://github.com/user-attachments/assets/c4bab21a-f294-4e1c-bf5d-4b393a90abad)
-
-
-![ex53](https://github.com/user-attachments/assets/0da5e353-e6c0-46b0-b255-b018a37499ec)
-
-
-
+![WhatsApp Image 2025-11-17 at 13 36 14_223a8498](https://github.com/user-attachments/assets/004f5e28-e5df-490d-8b50-b4731a6838d4)
 
 PRECAUTIONS:
 
